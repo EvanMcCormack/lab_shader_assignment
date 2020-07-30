@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/phong_shading.unity
+  isLoaded: 1
+  isActive: 1
